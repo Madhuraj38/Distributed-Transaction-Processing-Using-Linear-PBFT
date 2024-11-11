@@ -60,7 +60,6 @@ var clientIDs = []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"}
 var leaderPort = peers[0]
 var suite = bn256.NewSuite()
 
-// Constants
 const (
 	initialBalance = 10
 	f              = 2
